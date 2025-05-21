@@ -55,7 +55,7 @@
 ## 📬 Contact
 
 - Email: zhuohang2024@163.com  
-- Resume: [PDF_CH]([https://github.com/Headmaster218/Personal-CV/blob/main/John's%20%E5%B7%A5%E4%BD%9C%E7%AE%80%E5%8E%86.pdf])   [PDF_EN]([https://github.com/Headmaster218/Personal-CV/blob/main/John's%20CV%20for%20Work.pdf])
+- Resume: [PDF_CH](https://github.com/Headmaster218/Personal-CV/blob/main/John's%20%E5%B7%A5%E4%BD%9C%E7%AE%80%E5%8E%86.pdf)  and  [PDF_EN](https://github.com/Headmaster218/Personal-CV/blob/main/John's%20CV%20for%20Work.pdf)
 - Languages: Mandarin 🇨🇳 | English 🇬🇧 (TOEFL 104)
 
 ---
